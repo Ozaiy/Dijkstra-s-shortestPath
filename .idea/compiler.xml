@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="GenericGraphColouredLines" target="11" />
+      <module name="PublicTransportMap" target="11" />
+      <module name="TransportGraph" target="11" />
+      <module name="TransportMapProject" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
